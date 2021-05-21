@@ -29,4 +29,4 @@ Prepare the environment and install initial dependencies
 - venv/Scripts/pip3 freeze > requirements.txt
 
 #### To install the necessary application dependencies / packages:
-- venv/Scripts/pip3 isntall -r requirements.txt
+- venv/Scripts/pip3 install -r requirements.txt
